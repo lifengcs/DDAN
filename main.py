@@ -632,7 +632,7 @@ class VIDEOSR(object):
 def main(_):
     model = VIDEOSR()
     # model.train()
-    model.testvideos('./videos_dir/', 0, 'result_dir')
+    model.testvideos('./video_dir/', 0, 'result_dir')
 
 if __name__ == '__main__':
     tf.app.run()
