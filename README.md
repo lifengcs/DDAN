@@ -8,8 +8,8 @@ The architecture of our proposed deep dual attentian network(DDAN).
 + python==3.6 
 + Tensorflow==1.13.1
 ## models
-You can download trained DDAN model from [Baiduyun](https://pan.baidu.com/s/1S65vewNAShIPqbvrZLrX1w) we provide. 
-(Access code for Baiduyun: zelr)
+Download trained DDAN model from [Baiduyun](https://pan.baidu.com/s/1S65vewNAShIPqbvrZLrX1w) we provide. (Access code for Baiduyun: zelr)
+Unzip and place the files in the ``` DDAN_x4``` directory
 ## Installations
 + numpy==1.16.4
 + scipy==1.2.1
