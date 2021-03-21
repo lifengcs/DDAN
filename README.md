@@ -8,7 +8,9 @@ The architecture of our proposed deep dual attentian network(DDAN).
 + python==3.6 
 + Tensorflow==1.13.1
 ## Installations
++ numpy==1.16.4
 + scipy==1.2.1
++ Pillow==8.1.2
 ## Testing
 ```
 python main.py
