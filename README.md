@@ -7,16 +7,22 @@ The architecture of our proposed deep dual attentian network(DDAN).
 ## Environment
 + python==3.6 
 + Tensorflow==1.13.1
+## models
+You can download trained DDAN model from [Baiduyun]() we provide.
 ## Installations
 + numpy==1.16.4
 + scipy==1.2.1
 + Pillow==8.1.2
 ## Testing
+For testing, you can test one video or videos using function ``` testvideo()``` or ``` testvideo()```. Please change the test video directory.
 ```
 python main.py
 ```
 ## Training
-
+You can also train your DDNL using function ``` train()```. Before you train your models, download the data for training in ``` data``` directory.
+```
+python main.py
+```
 ## Visual results
 Here are the results from different dataset.
 The frame is from [*Myanmar*](https://ieeexplore.ieee.org/document/7444187).
