@@ -15,7 +15,7 @@ You can download trained DDAN model from [Baiduyun](https://pan.baidu.com/s/1S65
 + scipy==1.2.1
 + Pillow==8.1.2
 ## Testing
-For testing, you can test one video or videos using function ``` testvideo()``` or ``` testvideo()```. Please change the test video directory.
+For testing, you can test one video or videos using function ``` testvideo()``` or ``` testvideos()```. Please change the test video directory.
 ```
 # testvideos()
 python main.py
