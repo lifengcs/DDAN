@@ -1,7 +1,7 @@
 # DDAN
 ## Introduction
 This is the implementation of [*Learning a Deep Dual Attention Network
-for Video Super-Resolution*](https://ieeexplore.ieee.org/document/8995790).(*IEEE TIP*)
+for Video Super-Resolution*](https://ieeexplore.ieee.org/document/8995790).([*IEEE TIP*](https://ieeexplore.ieee.org/document/8995790))
 ![image](https://github.com/lifengshiwo/DDAN/blob/main/figures/DDAN.png)
 The architecture of our proposed deep dual attentian network(DDAN).
 ## Environment
@@ -51,3 +51,5 @@ If you use our code or model in your research, please cite with:
   doi={10.1109/TIP.2020.2972118}
  }
 ```
+## ACknowledgements
+This code is built on [MMCNN](https://github.com/psychopa4/MMCNN)(Tensorflow), we thank the authors for sharing their code.
