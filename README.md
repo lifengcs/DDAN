@@ -41,7 +41,7 @@ The frame is from real-world LR videos we captured.
 ## Citation
 If you use our code or model in your research, please cite with:
 ```
-@ARTICLE{8995790,
+@ARTICLE{ddan,
   author={Feng. Li and Huihui. Bai and Yao. Zhao},
   journal={IEEE Transactions on Image Processing},
   title={Learning a Deep Dual Attention Network for Video Super-Resolution},
